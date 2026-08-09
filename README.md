@@ -1,4 +1,4 @@
-# Olist E-Commerce Analytics: Delivery Delay Impact & Customer Segmentation
+# E-Commerce Analytics: Delivery Delay Impact & Customer Segmentation
 
 An end-to-end SQL analytics project analyzing 99K+ orders from the [Olist Brazilian E-Commerce dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce), investigating whether late deliveries measurably hurt customer satisfaction and retention — and quantifying the revenue impact.
 
