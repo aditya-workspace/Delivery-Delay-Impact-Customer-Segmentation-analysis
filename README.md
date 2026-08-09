@@ -48,7 +48,7 @@ Two things worth calling out about how this analysis was actually built, not jus
 
 Built in Power BI, connecting live to the SQL Server database plus several precomputed query results (RFM, repeat-purchase rate, seller ranking) that use window functions not natively available in DAX.
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## Repository Structure
 ```
